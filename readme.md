@@ -2,9 +2,9 @@
 
 🚀 **AI/ML Engineer | Cloud & DevOps Enthusiast | Data Science Explorer**  
 
-I’m passionate about building intelligent systems and scalable applications. With **6+ years of experience** in IT, I specialize in **AI/ML, Cloud (Azure), and DevOps**, delivering innovative solutions through real-world projects, Generative AI integrations, and automation pipelines.  
+I’m passionate about building intelligent systems and scalable applications. With **7.5+ years of experience** in IT, I specialize in **AI/ML, Cloud (Azure/ GCP), and DevOps**, delivering innovative solutions through real-world projects, Generative AI integrations, and automation pipelines.  
 
-📌 Currently exploring **MLOps, LLMs, and Generative AI** to build next-gen AI-powered assistants and data-driven solutions.  
+📌 Currently exploring **MLOps, LLMs, and Generative AI, Agentic AI** to build next-gen AI-powered assistants and data-driven solutions.  
 
 ---
 
